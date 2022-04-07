@@ -1,0 +1,34 @@
+body {
+    background-color: #d4d4d4;
+    font-family: "Sofia", sans-serif;
+}
+
+h1{
+    color: black;
+    font-size: 300%;
+}
+  
+p{
+    font-size: 100%;
+    color: black;
+}
+
+.Content{
+    background-color: #b4b4b4;
+    padding-left: 2%;
+    width: 60%;
+    padding-bottom: 1%;
+    padding-top: 0.01%;
+}
+.image{
+    float: left;
+}
+
+a{
+    color: black;
+    transition: 150ms;
+}
+
+a:hover{
+    color:rgb(107, 107, 107);
+}
